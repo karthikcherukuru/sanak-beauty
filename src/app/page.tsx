@@ -1,0 +1,2 @@
+import { Hero, Favorites, Showcase, Reviews } from '@/components/home';
+export default function Home() {return <><Hero/><div className="brand-ribbon" aria-label="Brand philosophy"><span>Thoughtfully imagined</span><span aria-hidden="true">✳</span><span>Beautifully uncomplicated</span><span aria-hidden="true">✳</span><span>Made for your everyday</span><span aria-hidden="true">✳</span><span>Always, effortlessly you</span></div><Favorites/><Showcase/><Reviews/></>;}

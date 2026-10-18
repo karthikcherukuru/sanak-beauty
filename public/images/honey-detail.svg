@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Honey — illustrative shade study</title>
+  <desc id="desc">Abstract color artwork for Skin Tint Foundation. Illustrative demo shade, not a product photograph.</desc>
+  <rect width="900" height="900" fill="#F4EAE4"/>
+  <circle cx="450" cy="420" r="251" fill="none" stroke="#D8C6BC" stroke-width="1"/>
+  <path d="M260 335 C280 245 398 199 496 220 C585 239 657 316 654 410 C650 521 560 600 470 623 C368 649 268 587 244 501 C227 439 243 386 260 335Z" fill="#BA8654" transform="rotate(-17 450 420)"/>
+  <path d="M300 336 C339 271 411 255 465 264" fill="none" stroke="#FFFFFF" stroke-opacity=".2" stroke-width="3" stroke-linecap="round"/>
+  <text x="450" y="745" text-anchor="middle" fill="#542E35" font-family="Georgia,serif" font-size="39">Honey</text>
+  <text x="450" y="787" text-anchor="middle" fill="#82716D" font-family="Arial,sans-serif" font-size="13" letter-spacing="2.4">ILLUSTRATIVE SHADE STUDY</text>
+  </svg>

@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "mode": "Built-in image_gen",
+  "status": "All 12 front images and campaign image generated. Detail SVGs are explicitly illustrative shade artwork. Editorial and photographic macro prompts are prepared but those views are not generated.",
+  "campaign": {
+    "path": "/images/campaign.webp",
+    "status": "generated",
+    "prompt": "Use case: ads-marketing. Luxury beauty editorial campaign portrait of an adult woman with warm natural makeup and real skin texture, holding original SANAK ivory and champagne gold lipstick. Warm rose and ivory palette, sculptural soft sunlight, elegant fashion composition, usable space for page layout. No written slogans, no other brands, no watermark."
+  },
+  "products": [
+    {
+      "sku": "SB-LIP-001",
+      "slug": "rosewood",
+      "name": "Velvet Matte Lipstick",
+      "shade": "Rosewood",
+      "family": "lipstick",
+      "color": "#A65F59",
+      "front": {
+        "status": "generated",
+        "path": "/images/rosewood.webp",
+        "original": "assets/originals/rosewood-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Velvet Matte Lipstick, Rosewood; pigment warm muted brick rose. Ivory cylindrical base and cap, polished champagne gold tube, slanted matte lipstick bullet, cap standing beside tube. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Velvet Matte Lipstick, Rosewood; pigment warm muted brick rose. Ivory cylindrical base and cap, polished champagne gold tube, slanted matte lipstick bullet, cap standing beside tube. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/rosewood-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Velvet Matte Lipstick, Rosewood, pigment warm muted brick rose. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic velvet lipstick swipe with fine pigment ridges on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-LIP-002",
+      "slug": "mauve-muse",
+      "name": "Velvet Matte Lipstick",
+      "shade": "Mauve Muse",
+      "family": "lipstick",
+      "color": "#A87386",
+      "front": {
+        "status": "generated",
+        "path": "/images/mauve-muse.webp",
+        "original": "assets/originals/mauve-muse-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Velvet Matte Lipstick, Mauve Muse; pigment soft dusty mauve. Ivory cylindrical base and cap, polished champagne gold tube, slanted matte lipstick bullet, cap standing beside tube. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Velvet Matte Lipstick, Mauve Muse; pigment soft dusty mauve. Ivory cylindrical base and cap, polished champagne gold tube, slanted matte lipstick bullet, cap standing beside tube. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/mauve-muse-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Velvet Matte Lipstick, Mauve Muse, pigment soft dusty mauve. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic velvet lipstick swipe with fine pigment ridges on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-LIP-003",
+      "slug": "berry-noir",
+      "name": "Velvet Matte Lipstick",
+      "shade": "Berry Noir",
+      "family": "lipstick",
+      "color": "#6B3048",
+      "front": {
+        "status": "generated",
+        "path": "/images/berry-noir.webp",
+        "original": "assets/originals/berry-noir-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Velvet Matte Lipstick, Berry Noir; pigment deep berry burgundy. Ivory cylindrical base and cap, polished champagne gold tube, slanted matte lipstick bullet, cap standing beside tube. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Velvet Matte Lipstick, Berry Noir; pigment deep berry burgundy. Ivory cylindrical base and cap, polished champagne gold tube, slanted matte lipstick bullet, cap standing beside tube. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/berry-noir-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Velvet Matte Lipstick, Berry Noir, pigment deep berry burgundy. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic velvet lipstick swipe with fine pigment ridges on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-SER-001",
+      "slug": "golden-hour",
+      "name": "Radiant Glow Serum",
+      "shade": "Golden Hour",
+      "family": "serum",
+      "color": "#D6A554",
+      "front": {
+        "status": "generated",
+        "path": "/images/golden-hour.webp",
+        "original": "assets/originals/golden-hour-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Radiant Glow Serum, Golden Hour; pigment translucent warm golden amber. Rounded frosted glass bottle, ivory rubber dropper and polished champagne gold collar, small ivory paper label. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Radiant Glow Serum, Golden Hour; pigment translucent warm golden amber. Rounded frosted glass bottle, ivory rubber dropper and polished champagne gold collar, small ivory paper label. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/golden-hour-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Radiant Glow Serum, Golden Hour, pigment translucent warm golden amber. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic liquid droplet with natural refraction on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-SER-002",
+      "slug": "dewdrop",
+      "name": "Radiant Glow Serum",
+      "shade": "Dewdrop",
+      "family": "serum",
+      "color": "#E5B8BD",
+      "front": {
+        "status": "generated",
+        "path": "/images/dewdrop.webp",
+        "original": "assets/originals/dewdrop-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Radiant Glow Serum, Dewdrop; pigment translucent pale blush pink. Rounded frosted glass bottle, ivory rubber dropper and polished champagne gold collar, small ivory paper label. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Radiant Glow Serum, Dewdrop; pigment translucent pale blush pink. Rounded frosted glass bottle, ivory rubber dropper and polished champagne gold collar, small ivory paper label. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/dewdrop-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Radiant Glow Serum, Dewdrop, pigment translucent pale blush pink. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic liquid droplet with natural refraction on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-BLU-001",
+      "slug": "soft-rose",
+      "name": "Silk Touch Blush",
+      "shade": "Soft Rose",
+      "family": "blush",
+      "color": "#BF7B82",
+      "front": {
+        "status": "generated",
+        "path": "/images/soft-rose.webp",
+        "original": "assets/originals/soft-rose-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Silk Touch Blush, Soft Rose; pigment soft muted rose pink. Round open champagne rose gold compact, mirror in raised lid, pressed powder with SANAK embossed on surface. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Silk Touch Blush, Soft Rose; pigment soft muted rose pink. Round open champagne rose gold compact, mirror in raised lid, pressed powder with SANAK embossed on surface. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/soft-rose-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Silk Touch Blush, Soft Rose, pigment soft muted rose pink. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic powder surface and fine pigment texture on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-BLU-002",
+      "slug": "peach-bloom",
+      "name": "Silk Touch Blush",
+      "shade": "Peach Bloom",
+      "family": "blush",
+      "color": "#D89475",
+      "front": {
+        "status": "generated",
+        "path": "/images/peach-bloom.webp",
+        "original": "assets/originals/peach-bloom-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Silk Touch Blush, Peach Bloom; pigment warm peach. Round open champagne rose gold compact, mirror in raised lid, pressed powder with SANAK embossed on surface. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Silk Touch Blush, Peach Bloom; pigment warm peach. Round open champagne rose gold compact, mirror in raised lid, pressed powder with SANAK embossed on surface. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/peach-bloom-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Silk Touch Blush, Peach Bloom, pigment warm peach. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic powder surface and fine pigment texture on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-FND-001",
+      "slug": "sand",
+      "name": "Skin Tint Foundation",
+      "shade": "Sand",
+      "family": "foundation",
+      "color": "#D7B18A",
+      "front": {
+        "status": "generated",
+        "path": "/images/sand.webp",
+        "original": "assets/originals/sand-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Skin Tint Foundation, Sand; pigment light-medium warm sand. Tall rectangular frosted glass bottle with rounded shoulders and brushed champagne gold cylindrical cap. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Skin Tint Foundation, Sand; pigment light-medium warm sand. Tall rectangular frosted glass bottle with rounded shoulders and brushed champagne gold cylindrical cap. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/sand-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Skin Tint Foundation, Sand, pigment light-medium warm sand. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic smooth foundation swatch with tactile edges on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-FND-002",
+      "slug": "honey",
+      "name": "Skin Tint Foundation",
+      "shade": "Honey",
+      "family": "foundation",
+      "color": "#BA8654",
+      "front": {
+        "status": "generated",
+        "path": "/images/honey.webp",
+        "original": "assets/originals/honey-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Skin Tint Foundation, Honey; pigment medium golden tan. Tall rectangular frosted glass bottle with rounded shoulders and brushed champagne gold cylindrical cap. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Skin Tint Foundation, Honey; pigment medium golden tan. Tall rectangular frosted glass bottle with rounded shoulders and brushed champagne gold cylindrical cap. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/honey-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Skin Tint Foundation, Honey, pigment medium golden tan. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic smooth foundation swatch with tactile edges on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-FND-003",
+      "slug": "almond",
+      "name": "Skin Tint Foundation",
+      "shade": "Almond",
+      "family": "foundation",
+      "color": "#8A5B3E",
+      "front": {
+        "status": "generated",
+        "path": "/images/almond.webp",
+        "original": "assets/originals/almond-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Skin Tint Foundation, Almond; pigment medium-deep warm brown. Tall rectangular frosted glass bottle with rounded shoulders and brushed champagne gold cylindrical cap. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Skin Tint Foundation, Almond; pigment medium-deep warm brown. Tall rectangular frosted glass bottle with rounded shoulders and brushed champagne gold cylindrical cap. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/almond-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Skin Tint Foundation, Almond, pigment medium-deep warm brown. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic smooth foundation swatch with tactile edges on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-GLS-001",
+      "slug": "nude-glaze",
+      "name": "Lustre Lip Gloss",
+      "shade": "Nude Glaze",
+      "family": "gloss",
+      "color": "#C9958B",
+      "front": {
+        "status": "generated",
+        "path": "/images/nude-glaze.webp",
+        "original": "assets/originals/nude-glaze-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Lustre Lip Gloss, Nude Glaze; pigment nude peach rose. Slim clear cylindrical gloss tube with long polished champagne gold cap, subtle SANAK wordmark. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Lustre Lip Gloss, Nude Glaze; pigment nude peach rose. Slim clear cylindrical gloss tube with long polished champagne gold cap, subtle SANAK wordmark. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/nude-glaze-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Lustre Lip Gloss, Nude Glaze, pigment nude peach rose. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic gloss smear with glassy reflections on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    },
+    {
+      "sku": "SB-GLS-002",
+      "slug": "pink-veil",
+      "name": "Lustre Lip Gloss",
+      "shade": "Pink Veil",
+      "family": "gloss",
+      "color": "#D38C9B",
+      "front": {
+        "status": "generated",
+        "path": "/images/pink-veil.webp",
+        "original": "assets/originals/pink-veil-original.png",
+        "prompt": "Use case: product-mockup. Square ecommerce front image of Lustre Lip Gloss, Pink Veil; pigment rosy pink. Slim clear cylindrical gloss tube with long polished champagne gold cap, subtle SANAK wordmark. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Centered whole product, three-quarter frontal view, generous border."
+      },
+      "editorial": {
+        "status": "prompt_only",
+        "prompt": "Use case: product-mockup. Square editorial beauty still life featuring Lustre Lip Gloss, Pink Veil; pigment rosy pink. Slim clear cylindrical gloss tube with long polished champagne gold cap, subtle SANAK wordmark. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Product resting on a single low ivory stone plinth, oblique three-quarter view, gentle diagonal light and balanced negative space. Preserve front reference packaging exactly."
+      },
+      "detail": {
+        "status": "illustrative_svg_placeholder",
+        "path": "/images/pink-veil-detail.svg",
+        "prompt": "Use case: product-mockup. Square extreme macro photograph of Lustre Lip Gloss, Pink Veil, pigment rosy pink. Original fictional Sanak Beauty collection. Photorealistic premium cosmetics photography. Warm ivory studio backdrop, diffused sunlight from upper left, soft grounded shadows, rich real material texture, accurate anatomy of packaging. Restrained editorial art direction. Wordmark exactly SANAK, no other copy, no watermark, no other brands. Detailed cosmetic gloss smear with glassy reflections on warm ivory surface. No packaging or text. Distinct photographic texture, restrained single cosmetic swatch."
+      }
+    }
+  ]
+}
